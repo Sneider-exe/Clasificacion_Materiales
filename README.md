@@ -1,2 +1,2 @@
 # Clasificacion_Materiales
-Proyecto de clasificación de materiales, semillero Hands On Computer Vision
+Proyecto de clasificación de materiales, semillero Hands - On Computer Vision
