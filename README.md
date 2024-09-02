@@ -1,4 +1,4 @@
-# BMWP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado"
+# BWMP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado"
 
 <p align="center">
   <img src="logo.jpg" alt="Descripción alternativa de la imagen">
